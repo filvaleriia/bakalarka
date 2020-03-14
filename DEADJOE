@@ -1,0 +1,30 @@
+
+*** These modified files were found in JOE when it aborted on Tue Feb 25 19:44:02 2020
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+/home/valeriia/bakalarka/filvaleriia/.git/COMMIT_EDITMSG
+
+*** File '/home/valeriia/bakalarka/filvaleriia/.git/COMMIT_EDITMSG'
+
+#
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   proba.py
+#
+#
+
+
+
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
